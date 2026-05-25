@@ -56,6 +56,14 @@ L’analyse a notamment révélé :
 - un lien marqué entre le temps passé sur la plateforme et les clics sur les publicités ;
 - un motif caché formant le mot "WORLD" lors de la visualisation des coordonnées géographiques.
 
+## Exemple de visualisation
+
+### Consommation moyenne de vidéos par tranche d’âge
+
+Ce graphique montre que le nombre moyen de vidéos vues augmente avec l’âge des utilisateurs.
+
+![Consommation moyenne de vidéos par tranche d’âge](video_views_par_age.png)
+
 ---
 
 ## Notebook du projet
